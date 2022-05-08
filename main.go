@@ -295,6 +295,7 @@ func GameStatusDefaultDone() {
 
 	M.Bomb.Hide()
 	M.BombNum = 0
+	M.DoubleNum = 0
 
 	M.Menu.Show()
 	M.StartButton.Show()

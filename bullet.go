@@ -5,8 +5,8 @@ import (
 )
 
 const (
-	BulletHero = iota
-	BulletEnemy
+	BulletHero  = iota
+	BulletEnemy //todo 敌机子弹
 	BulletMax
 )
 
